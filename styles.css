@@ -1,0 +1,11 @@
+#ghx-header {
+  display: none !important;
+}
+
+#ghx-quick-filters {
+  display: none !important; 
+}
+
+.ghx-column {
+  padding: 4px !important;
+}
